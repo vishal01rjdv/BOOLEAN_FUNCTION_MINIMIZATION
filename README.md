@@ -48,15 +48,24 @@ endmodule
 Developed by:VISHAL R RegisterNumber:25004464
 
 **RTL realization**
+
+
+
+
 <img width="683" height="776" alt="Screenshot 2025-10-16 151405" src="https://github.com/user-attachments/assets/369224dd-9d8a-469f-a786-2eadb0659e93" />
 
 **Output:**
 
 **RTL**
 
+<img width="738" height="515" alt="Screenshot 2025-10-24 094238" src="https://github.com/user-attachments/assets/b1d5492b-47d4-4211-88c4-e97c5a271399" />
+<img width="685" height="440" alt="Screenshot 2025-10-24 094247" src="https://github.com/user-attachments/assets/a1c6ef1c-84a4-4ad0-910a-d81d88e6e14a" />
+
+
 **Timing Diagram**
 <img width="686" height="659" alt="Screenshot 2025-10-16 151434" src="https://github.com/user-attachments/assets/03d969ca-6130-448a-95be-05727124d76c" />
 
 **Result:**
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
